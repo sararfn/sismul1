@@ -1,2 +1,2 @@
 # sismul1
-Lab TI Sistem Multimedia CRUD (PHP)
+Tugas Lab TI Sistem Multimedia CRUD (PHP)
